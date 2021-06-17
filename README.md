@@ -1,8 +1,12 @@
 # :zap: Javascript Speach Synthesis
 
 Wes Bos Youtube Tutorial: [JavaScript Text-To-Speech - #JavaScript30 23/30](https://www.youtube.com/watch?v=saCpKH_xdgs).
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-*** Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/javascript-speach-synthesis?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/javascript-speach-synthesis?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/javascript-speach-synthesis?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/javascript-speach-synthesis?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -25,7 +29,7 @@ Wes Bos Youtube Tutorial: [JavaScript Text-To-Speech - #JavaScript30 23/30](http
 
 ## :signal_strength: Technologies
 
-* [Javascript v1.9 ECMA-262 ECMAScript 2018](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
+* [Javascript ECMA-262 ECMAScript 2020](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
 
 ## :floppy_disk: Setup
 
@@ -58,6 +62,10 @@ function populateVoices() {
 
 * Wes Bos Youtube Tutorial: [JavaScript Text-To-Speech - #JavaScript30 23/30](https://www.youtube.com/watch?v=saCpKH_xdgs).
 
+## :file_folder: License
+
+* N/A
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
