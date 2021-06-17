@@ -1,12 +1,12 @@
-# :zap: Javascript Speach Synthesis
+# :zap: Javascript Speech Synthesis
 
 Wes Bos Youtube Tutorial: [JavaScript Text-To-Speech - #JavaScript30 23/30](https://www.youtube.com/watch?v=saCpKH_xdgs).
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/javascript-speach-synthesis?style=plastic)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/javascript-speach-synthesis?style=plastic)
-![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/javascript-speach-synthesis?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/javascript-speach-synthesis?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/javascript-speech-synthesis?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/javascript-speech-synthesis?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/javascript-speech-synthesis?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/javascript-speech-synthesis?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -21,7 +21,7 @@ Wes Bos Youtube Tutorial: [JavaScript Text-To-Speech - #JavaScript30 23/30](http
 
 ## :books: General info
 
-* Tutorial Code using javascript speach synthesis.
+* Tutorial Code using javascript speech synthesis.
 
 ## :camera: Screenshots
 
